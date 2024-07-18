@@ -33,8 +33,8 @@
 					<cloudHubDeployment>
 						<uri>https://anypoint.mulesoft.com</uri>
 						<muleVersion>4.7.0</muleVersion>
-						<username>yogi123456789</username>
-						<password>yogendra1Y@</password>
+						<username>mitrahari42developer</username>
+						<password>Mitrahari@42</password>
 						<applicationName>jenkinssanjay</applicationName>
 						<environment>Sandbox</environment>
 						<region>us-east-1</region>
